@@ -1,0 +1,3 @@
+[submodule "koha-authorities-convert"]
+	path = koha-authorities-convert
+	url = https://github.com/kanellov/koha-authorities-convert
